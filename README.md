@@ -4,7 +4,7 @@ A from-scratch image-processing pipeline for cleaning up scans of old/damaged hi
 
 ## Overview
 
-The Historic Documents Cleanup pipeline takes a scanned or photographed page of an aged/damaged document and progressively cleans it up — removing noise, straightening skewed scans, boosting faded contrast, and binarizing the image — before passing it to Tesseract for text extraction. Each stage is visualized step by step so you can see exactly what it's doing to the image, and every parameter is tunable for different scan qualities and font sizes.
+The Historic Documents Cleanup pipeline takes a scanned or photographed page of an aged/damaged document and progressively cleans it up; removing noise, straightening skewed scans, boosting faded contrast, and binarizing the image — before passing it to Tesseract for text extraction. Each stage is visualized step by step so you can see exactly what it's doing to the image, and every parameter is tunable for different scan qualities and font sizes.
 
 ## Features
 
